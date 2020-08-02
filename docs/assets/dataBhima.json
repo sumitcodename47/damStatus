@@ -1,0 +1,88 @@
+{
+  "Bhima": {
+    "19.7.2020": {
+      "Pawana": {
+        "totalStorage": "240.97",
+        "currentStorage": "83.43",
+        "percentage": "34.62"
+      },
+      "Kasarsai": {
+        "totalStorage": "16.06",
+        "currentStorage": "6.61",
+        "percentage": "41.16"
+      },
+      "Mulshi": {
+        "totalStorage": "523.00",
+        "currentStorage": "125.05",
+        "percentage": "23.92"
+      },
+      "Temghar": {
+        "totalStorage": "105.01",
+        "currentStorage": "17.68",
+        "percentage": "16.84"
+      },
+      "Warasgaon": {
+        "totalStorage": "363.13",
+        "currentStorage": "105.03",
+        "percentage": "28.92"
+      },
+      "Panshet": {
+        "totalStorage": "301.61",
+        "currentStorage": "120.25",
+        "percentage": "39.87"
+      },
+      "Khadakwasla": {
+        "totalStorage": "55.91",
+        "currentStorage": "21.37",
+        "percentage": "38.22"
+      },
+      "Ujjani": {
+        "totalStorage": "1517.19",
+        "currentStorage": "1.99",
+        "percentage": "0.13"
+      }
+    },
+    "20.7.2020": {
+      "Pawana": {
+        "totalStorage": "240.97",
+        "currentStorage": "83.84",
+        "percentage": "34.79"
+      },
+      "Kasarsai": {
+        "totalStorage": "16.06",
+        "currentStorage": "6.61",
+        "percentage": "41.16"
+      },
+      "Mulshi": {
+        "totalStorage": "523.00",
+        "currentStorage": "129.85",
+        "percentage": "24.84"
+      },
+      "Temghar": {
+        "totalStorage": "105.01",
+        "currentStorage": "18.35",
+        "percentage": "17.47"
+      },
+      "Warasgaon": {
+        "totalStorage": "363.13",
+        "currentStorage": "107.49",
+        "percentage": "29.60"
+      },
+      "Panshet": {
+        "totalStorage": "301.61",
+        "currentStorage": "121.90",
+        "percentage": "40.42"
+      },
+      "Khadakwasla": {
+        "totalStorage": "55.91",
+        "currentStorage": "20.49",
+        "percentage": "36.65"
+      },
+      "Ujjani": {
+        "totalStorage": "1517.19",
+        "currentStorage": "8.92",
+        "percentage": "0.59"
+      }
+    }
+  }
+}
