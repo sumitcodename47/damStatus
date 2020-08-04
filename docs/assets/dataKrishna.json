@@ -1,5 +1,1680 @@
 {
   "Krishna": {
+    "1.6.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "821.51",
+        "percentage": "28.97"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "105.69",
+        "percentage": "31.93"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "61.18",
+        "percentage": "22.52"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "132.41",
+        "percentage": "16.99"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "174.38",
+        "percentage": "25.68"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "26.02",
+        "percentage": "11.83"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "40.29",
+        "percentage": "43.83"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "20.78",
+        "percentage": "26.65"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "22.24",
+        "percentage": "21.23"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "29.09",
+        "percentage": "25.94"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "166.35",
+        "percentage": "60.87"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.79",
+        "percentage": "19.34"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "65.45",
+        "percentage": "39.56"
+      }
+    },
+    "1.7.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "760.62",
+        "percentage": "26.82"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "109.07",
+        "percentage": "32.95"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "54.43",
+        "percentage": "20.03"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "206.46",
+        "percentage": "26.49"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "243.91",
+        "percentage": "35.92"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "48.01",
+        "percentage": "21.83"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "35.74",
+        "percentage": "38.88"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "29.86",
+        "percentage": "38.30"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "39.22",
+        "percentage": "37.43"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "29.99",
+        "percentage": "26.74"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "143.19",
+        "percentage": "52.40"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.02",
+        "percentage": "15.41"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "57.04",
+        "percentage": "34.48"
+      }
+    },
+    "1.8.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "1327.59",
+        "percentage": "46.82"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "138.11",
+        "percentage": "41.72"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "123.45",
+        "percentage": "45.44"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "451.38",
+        "percentage": "57.92"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "438.60",
+        "percentage": "64.58"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "129.94",
+        "percentage": "59.07"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "49.67",
+        "percentage": "54.04"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "51.38",
+        "percentage": "65.91"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "75.43",
+        "percentage": "72.00"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "56.91",
+        "percentage": "50.75"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "179.69",
+        "percentage": "65.76"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.40",
+        "percentage": "17.35"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "81.66",
+        "percentage": "49.36"
+      }
+    },
+    "10.6.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "770.07",
+        "percentage": "27.16"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "102.92",
+        "percentage": "31.09"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "49.95",
+        "percentage": "18.39"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "136.09",
+        "percentage": "17.46"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "170.75",
+        "percentage": "25.14"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "23.90",
+        "percentage": "10.87"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "38.76",
+        "percentage": "42.17"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "24.88",
+        "percentage": "31.91"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "26.80",
+        "percentage": "25.58"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "27.83",
+        "percentage": "24.82"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "156.57",
+        "percentage": "57.29"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.27",
+        "percentage": "16.68"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "63.74",
+        "percentage": "38.53"
+      }
+    },
+    "10.7.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "1015.65",
+        "percentage": "35.82"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "122.89",
+        "percentage": "37.12"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "91.16",
+        "percentage": "33.55"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "308.55",
+        "percentage": "39.59"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "361.05",
+        "percentage": "53.17"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "103.10",
+        "percentage": "46.87"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "40.80",
+        "percentage": "44.39"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "40.33",
+        "percentage": "51.73"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "61.85",
+        "percentage": "59.03"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "42.38",
+        "percentage": "37.79"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "156.80",
+        "percentage": "57.38"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.06",
+        "percentage": "15.61"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "60.58",
+        "percentage": "36.62"
+      }
+    },
+    "11.6.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "770.07",
+        "percentage": "27.16"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "102.92",
+        "percentage": "31.09"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "49.95",
+        "percentage": "18.39"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "136.09",
+        "percentage": "17.46"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "170.75",
+        "percentage": "25.14"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "23.90",
+        "percentage": "10.87"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "38.76",
+        "percentage": "42.17"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "24.88",
+        "percentage": "31.91"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "26.80",
+        "percentage": "25.58"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "27.83",
+        "percentage": "24.82"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "156.57",
+        "percentage": "57.29"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.27",
+        "percentage": "16.68"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "63.74",
+        "percentage": "38.53"
+      }
+    },
+    "11.7.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "1067.81",
+        "percentage": "37.36"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "125.25",
+        "percentage": "37.83"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "98.30",
+        "percentage": "36.18"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "323.43",
+        "percentage": "41.50"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "387.52",
+        "percentage": "57.06"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "108.74",
+        "percentage": "49.43"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "42.67",
+        "percentage": "46.43"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "41.08",
+        "percentage": "52.69"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "67.31",
+        "percentage": "64.25"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "45.08",
+        "percentage": "40.20"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "159.81",
+        "percentage": "58.48"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.06",
+        "percentage": "15.61"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "67.16",
+        "percentage": "40.59"
+      }
+    },
+    "12.6.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "770.07",
+        "percentage": "27.16"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "102.92",
+        "percentage": "31.09"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "49.95",
+        "percentage": "18.39"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "136.09",
+        "percentage": "17.46"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "170.75",
+        "percentage": "25.14"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "23.90",
+        "percentage": "10.87"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "38.76",
+        "percentage": "42.17"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "24.88",
+        "percentage": "31.91"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "26.80",
+        "percentage": "25.58"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "27.83",
+        "percentage": "24.82"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "156.57",
+        "percentage": "57.29"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.27",
+        "percentage": "16.68"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "63.74",
+        "percentage": "38.53"
+      }
+    },
+    "12.7.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "1067.81",
+        "percentage": "37.36"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "125.25",
+        "percentage": "37.83"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "98.30",
+        "percentage": "36.18"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "323.43",
+        "percentage": "41.50"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "387.52",
+        "percentage": "57.06"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "108.74",
+        "percentage": "49.43"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "42.67",
+        "percentage": "46.43"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "41.08",
+        "percentage": "52.69"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "67.31",
+        "percentage": "64.25"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "45.08",
+        "percentage": "40.20"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "159.81",
+        "percentage": "58.48"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.06",
+        "percentage": "15.61"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "67.16",
+        "percentage": "40.59"
+      }
+    },
+    "13.6.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "770.07",
+        "percentage": "27.16"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "102.92",
+        "percentage": "31.09"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "49.95",
+        "percentage": "18.39"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "136.09",
+        "percentage": "17.46"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "170.75",
+        "percentage": "25.14"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "23.90",
+        "percentage": "10.87"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "38.76",
+        "percentage": "42.17"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "24.88",
+        "percentage": "31.91"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "26.80",
+        "percentage": "25.58"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "27.83",
+        "percentage": "24.82"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "156.57",
+        "percentage": "57.29"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.27",
+        "percentage": "16.68"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "63.74",
+        "percentage": "38.53"
+      }
+    },
+    "13.7.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "1067.81",
+        "percentage": "37.36"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "125.25",
+        "percentage": "37.83"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "98.30",
+        "percentage": "36.18"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "323.43",
+        "percentage": "41.50"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "387.52",
+        "percentage": "57.06"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "108.74",
+        "percentage": "49.43"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "42.67",
+        "percentage": "46.43"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "41.08",
+        "percentage": "52.69"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "67.31",
+        "percentage": "64.25"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "45.08",
+        "percentage": "40.20"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "159.81",
+        "percentage": "58.48"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.06",
+        "percentage": "15.61"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "67.16",
+        "percentage": "40.59"
+      }
+    },
+    "14.6.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "768.72",
+        "percentage": "27.11"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "103.21",
+        "percentage": "31.18"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "48.96",
+        "percentage": "18.02"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "137.56",
+        "percentage": "17.65"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "174.05",
+        "percentage": "25.63"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "26.49",
+        "percentage": "12.04"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "38.53",
+        "percentage": "41.91"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "25.40",
+        "percentage": "32.58"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "27.43",
+        "percentage": "26.18"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "27.54",
+        "percentage": "24.56"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "155.36",
+        "percentage": "56.85"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.23",
+        "percentage": "16.48"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "63.24",
+        "percentage": "38.23"
+      }
+    },
+    "14.7.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "1070.71",
+        "percentage": "37.76"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "125.60",
+        "percentage": "37.94"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "99.64",
+        "percentage": "36.68"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "328.38",
+        "percentage": "42.14"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "390.42",
+        "percentage": "57.49"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "109.14",
+        "percentage": "19.61"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "43.08",
+        "percentage": "46.86"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "40.71",
+        "percentage": "52.22"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "67.78",
+        "percentage": "64.69"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "45.68",
+        "percentage": "40.73"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "160.85",
+        "percentage": "58.86"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.02",
+        "percentage": "15.41"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "68.03",
+        "percentage": "41.12"
+      }
+    },
+    "15.6.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "770.07",
+        "percentage": "27.16"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "103.65",
+        "percentage": "31.31"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "48.04",
+        "percentage": "17.68"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "138.30",
+        "percentage": "17.75"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "177.44",
+        "percentage": "26.13"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "27.47",
+        "percentage": "12.49"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "68.07",
+        "percentage": "41.41"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "25.70",
+        "percentage": "32.97"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "27.63",
+        "percentage": "26.37"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "27.07",
+        "percentage": "24.14"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "154.64",
+        "percentage": "56.59"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.19",
+        "percentage": "16.28"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "62.58",
+        "percentage": "37.82"
+      }
+    },
+    "15.7.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "1077.95",
+        "percentage": "38.02"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "127.67",
+        "percentage": "38.57"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "100.68",
+        "percentage": "37.06"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "334.33",
+        "percentage": "42.90"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "396.05",
+        "percentage": "58.32"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "109.31",
+        "percentage": "49.69"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "43.48",
+        "percentage": "47.30"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "41.46",
+        "percentage": "53.18"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "68.13",
+        "percentage": "65.03"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "46.42",
+        "percentage": "41.39"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "162.95",
+        "percentage": "59.63"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.02",
+        "percentage": "15.41"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "69.45",
+        "percentage": "41.98"
+      }
+    },
+    "16.6.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "780.87",
+        "percentage": "27.54"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "104.23",
+        "percentage": "31.48"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "47.13",
+        "percentage": "17.35"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "141.25",
+        "percentage": "18.12"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "182.51",
+        "percentage": "26.88"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "31.05",
+        "percentage": "14.12"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "37.57",
+        "percentage": "40.87"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "26.59",
+        "percentage": "34.11"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "28.88",
+        "percentage": "27.56"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "27.02",
+        "percentage": "24.10"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "154.03",
+        "percentage": "56.37"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.15",
+        "percentage": "16.07"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "62.08",
+        "percentage": "37.52"
+      }
+    },
+    "16.7.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "1102.76",
+        "percentage": "38.89"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "128.90",
+        "percentage": "38.94"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "102.69",
+        "percentage": "37.80"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "346.22",
+        "percentage": "44.42"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "397.80",
+        "percentage": "58.58"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "112.52",
+        "percentage": "51.15"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "43.88",
+        "percentage": "47.74"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "42.01",
+        "percentage": "53.89"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "68.21",
+        "percentage": "65.10"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "47.73",
+        "percentage": "42.56"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "164.65",
+        "percentage": "60.25"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.11",
+        "percentage": "15.87"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "70.69",
+        "percentage": "42.73"
+      }
+    },
+    "17.6.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "788.97",
+        "percentage": "27.82"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "104.96",
+        "percentage": "31.71"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "46.95",
+        "percentage": "17.28"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "150.48",
+        "percentage": "19.31"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "195.29",
+        "percentage": "28.76"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "38.89",
+        "percentage": "17.68"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "38.14",
+        "percentage": "41.49"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "27.49",
+        "percentage": "35.26"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "31.61",
+        "percentage": "30.17"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "26.89",
+        "percentage": "23.98"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "153.31",
+        "percentage": "56.10"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.11",
+        "percentage": "15.87"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "61.58",
+        "percentage": "37.22"
+      }
+    },
+    "17.7.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "1133.70",
+        "percentage": "39.98"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "129.71",
+        "percentage": "39.18"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "105.04",
+        "percentage": "38.66"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "357.88",
+        "percentage": "45.92"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "403.67",
+        "percentage": "59.44"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "117.17",
+        "percentage": "53.27"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "44.69",
+        "percentage": "48.62"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "43.33",
+        "percentage": "55.58"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "68.66",
+        "percentage": "65.53"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "49.29",
+        "percentage": "43.95"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "166.61",
+        "percentage": "60.97"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.11",
+        "percentage": "15.87"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "71.94",
+        "percentage": "43.48"
+      }
+    },
+    "18.6.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "797.07",
+        "percentage": "28.11"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "105.83",
+        "percentage": "31.97"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "47.43",
+        "percentage": "17.46"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "161.08",
+        "percentage": "20.67"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "204.84",
+        "percentage": "30.16"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "39.43",
+        "percentage": "17.93"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "38.03",
+        "percentage": "41.37"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "28.67",
+        "percentage": "36.78"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "32.87",
+        "percentage": "31.37"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "27.07",
+        "percentage": "24.14"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "152.71",
+        "percentage": "55.88"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.06",
+        "percentage": "15.61"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "61.24",
+        "percentage": "37.02"
+      }
+    },
+    "18.7.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "1168.76",
+        "percentage": "41.22"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "130.81",
+        "percentage": "39.51"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "108.51",
+        "percentage": "39.94"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "377.71",
+        "percentage": "48.47"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "412.07",
+        "percentage": "60.68"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "121.68",
+        "percentage": "55.31"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "45.29",
+        "percentage": "49.27"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "44.08",
+        "percentage": "56.54"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "69.93",
+        "percentage": "66.75"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "50.46",
+        "percentage": "45.00"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "168.96",
+        "percentage": "61.83"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.11",
+        "percentage": "15.87"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "73.22",
+        "percentage": "44.26"
+      }
+    },
+    "19.6.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "820.11",
+        "percentage": "28.92"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "107.01",
+        "percentage": "32.32"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "49.45",
+        "percentage": "18.20"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "174.79",
+        "percentage": "22.43"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "214.45",
+        "percentage": "31.58"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "38.83",
+        "percentage": "17.65"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "38.07",
+        "percentage": "41.41"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "28.97",
+        "percentage": "37.16"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "33.80",
+        "percentage": "32.26"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "27.95",
+        "percentage": "24.92"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "153.43",
+        "percentage": "56.15"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.02",
+        "percentage": "15.41"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "61.41",
+        "percentage": "37.12"
+      }
+    },
+    "19.7.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "1199.70",
+        "percentage": "42.31"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "131.83",
+        "percentage": "39.82"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "111.75",
+        "percentage": "41.13"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "392.32",
+        "percentage": "50.34"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "418.12",
+        "percentage": "61.57"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "124.33",
+        "percentage": "56.52"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "46.37",
+        "percentage": "50.44"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "45.21",
+        "percentage": "57.99"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "70.97",
+        "percentage": "67.74"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "51.65",
+        "percentage": "46.06"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "171.18",
+        "percentage": "62.64"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.15",
+        "percentage": "16.07"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "74.31",
+        "percentage": "44.92"
+      }
+    },
+    "2.6.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "811.92",
+        "percentage": "28.63"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "104.23",
+        "percentage": "31.48"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "60.03",
+        "percentage": "22.10"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "129.51",
+        "percentage": "16.62"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "172.57",
+        "percentage": "25.41"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "22.13",
+        "percentage": "10.06"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "40.29",
+        "percentage": "43.83"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "20.78",
+        "percentage": "26.65"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "22.24",
+        "percentage": "21.23"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "28.47",
+        "percentage": "25.39"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "165.04",
+        "percentage": "60.40"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.79",
+        "percentage": "19.34"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "64.59",
+        "percentage": "39.04"
+      }
+    },
+    "2.7.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "763.32",
+        "percentage": "26.92"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "109.22",
+        "percentage": "32.99"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "54.53",
+        "percentage": "20.07"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "212.40",
+        "percentage": "27.25"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "245.91",
+        "percentage": "36.21"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "49.96",
+        "percentage": "22.71"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "35.78",
+        "percentage": "38.92"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "30.45",
+        "percentage": "39.06"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "40.41",
+        "percentage": "38.57"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "30.05",
+        "percentage": "26.80"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "142.10",
+        "percentage": "52.00"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.02",
+        "percentage": "15.41"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "56.57",
+        "percentage": "34.19"
+      }
+    },
     "2.8.2020": {
       "Koyna": {
         "totalStorage": 2835.54,
@@ -65,6 +1740,2619 @@
         "totalStorage": 165.46,
         "currentStorage": "81.86",
         "percentage": "49.48"
+      }
+    },
+    "20.6.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "828.12",
+        "percentage": "29.20"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "107.45",
+        "percentage": "32.46"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "50.63",
+        "percentage": "18.64"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "184.65",
+        "percentage": "23.69"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "220.85",
+        "percentage": "32.52"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "38.35",
+        "percentage": "14.44"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "37.83",
+        "percentage": "41.16"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "29.56",
+        "percentage": "37.92"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "34.41",
+        "percentage": "32.84"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "28.36",
+        "percentage": "25.29"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "152.95",
+        "percentage": "55.97"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.02",
+        "percentage": "15.41"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "61.91",
+        "percentage": "37.42"
+      }
+    },
+    "20.7.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "1230.64",
+        "percentage": "43.40"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "132.61",
+        "percentage": "40.06"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "114.00",
+        "percentage": "41.96"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "404.82",
+        "percentage": "51.94"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "420.35",
+        "percentage": "61.90"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "125.04",
+        "percentage": "56.84"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "47.06",
+        "percentage": "51.20"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "46.00",
+        "percentage": "59.00"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "71.05",
+        "percentage": "67.82"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "52.55",
+        "percentage": "46.86"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "172.89",
+        "percentage": "63.27"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.15",
+        "percentage": "16.07"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "75.41",
+        "percentage": "45.58"
+      }
+    },
+    "21.6.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "828.12",
+        "percentage": "29.20"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "107.74",
+        "percentage": "32.54"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "51.56",
+        "percentage": "18.98"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "189.60",
+        "percentage": "24.33"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "224.30",
+        "percentage": "33.03"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "37.85",
+        "percentage": "17.21"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "37.26",
+        "percentage": "40.53"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "30.45",
+        "percentage": "39.06"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "34.41",
+        "percentage": "32.84"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "28.59",
+        "percentage": "25.49"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "152.23",
+        "percentage": "55.70"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.02",
+        "percentage": "15.41"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "61.91",
+        "percentage": "37.42"
+      }
+    },
+    "21.7.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "1247.14",
+        "percentage": "43.98"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "133.56",
+        "percentage": "40.34"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "115.37",
+        "percentage": "42.47"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "412.84",
+        "percentage": "52.97"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "422.57",
+        "percentage": "62.22"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "124.72",
+        "percentage": "56.70"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "47.52",
+        "percentage": "51.69"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "46.41",
+        "percentage": "59.53"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "71.58",
+        "percentage": "68.32"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "53.05",
+        "percentage": "47.31"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "174.06",
+        "percentage": "63.70"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.19",
+        "percentage": "16.28"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "76.35",
+        "percentage": "46.15"
+      }
+    },
+    "22.6.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "828.12",
+        "percentage": "29.20"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "108.04",
+        "percentage": "32.64"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "52.27",
+        "percentage": "19.24"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "192.58",
+        "percentage": "24.71"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "228.31",
+        "percentage": "33.62"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "37.51",
+        "percentage": "17.05"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "36.99",
+        "percentage": "40.24"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "30.45",
+        "percentage": "39.06"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "34.41",
+        "percentage": "32.84"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "28.82",
+        "percentage": "25.70"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "151.62",
+        "percentage": "55.48"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "2.98",
+        "percentage": "15.20"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "61.91",
+        "percentage": "37.42"
+      }
+    },
+    "22.7.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "1257.46",
+        "percentage": "44.35"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "134.19",
+        "percentage": "40.53"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "116.52",
+        "percentage": "42.89"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "418.60",
+        "percentage": "53.71"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "425.35",
+        "percentage": "62.63"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "124.13",
+        "percentage": "56.43"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "47.89",
+        "percentage": "52.10"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "47.24",
+        "percentage": "60.60"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "72.03",
+        "percentage": "68.75"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "53.86",
+        "percentage": "48.03"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "174.98",
+        "percentage": "64.03"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.19",
+        "percentage": "16.28"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "77.47",
+        "percentage": "46.83"
+      }
+    },
+    "23.6.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "821.51",
+        "percentage": "28.97"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "108.18",
+        "percentage": "32.68"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "52.77",
+        "percentage": "19.42"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "198.53",
+        "percentage": "25.47"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "230.46",
+        "percentage": "33.94"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "36.90",
+        "percentage": "16.78"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "36.72",
+        "percentage": "39.95"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "30.45",
+        "percentage": "39.06"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "34.32",
+        "percentage": "32.76"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "29.05",
+        "percentage": "25.90"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "150.90",
+        "percentage": "55.22"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "2.98",
+        "percentage": "15.20"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "61.91",
+        "percentage": "37.42"
+      }
+    },
+    "23.7.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "1267.77",
+        "percentage": "44.71"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "134.51",
+        "percentage": "40.63"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "117.45",
+        "percentage": "43.23"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "423.21",
+        "percentage": "54.30"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "427.85",
+        "percentage": "63.00"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "122.91",
+        "percentage": "55.88"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "48.14",
+        "percentage": "52.37"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "47.65",
+        "percentage": "61.12"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "72.41",
+        "percentage": "69.11"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "53.89",
+        "percentage": "48.06"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "175.77",
+        "percentage": "64.32"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.23",
+        "percentage": "16.48"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "78.41",
+        "percentage": "47.39"
+      }
+    },
+    "24.6.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "811.92",
+        "percentage": "28.63"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "108.33",
+        "percentage": "32.72"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "53.09",
+        "percentage": "19.54"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "202.49",
+        "percentage": "25.98"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "232.81",
+        "percentage": "34.28"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "36.07",
+        "percentage": "16.40"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "36.38",
+        "percentage": "39.58"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "30.16",
+        "percentage": "38.69"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "34.67",
+        "percentage": "33.09"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "29.14",
+        "percentage": "25.98"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "150.06",
+        "percentage": "54.91"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "2.98",
+        "percentage": "15.20"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "61.58",
+        "percentage": "37.22"
+      }
+    },
+    "24.7.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "1273.96",
+        "percentage": "44.93"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "134.97",
+        "percentage": "40.77"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "118.26",
+        "percentage": "43.53"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "427.88",
+        "percentage": "54.90"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "429.54",
+        "percentage": "63.25"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "121.68",
+        "percentage": "55.31"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "48.22",
+        "percentage": "52.46"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "48.07",
+        "percentage": "61.66"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "72.57",
+        "percentage": "69.27"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "54.26",
+        "percentage": "48.39"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "176.29",
+        "percentage": "64.51"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.23",
+        "percentage": "16.48"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "79.17",
+        "percentage": "47.85"
+      }
+    },
+    "25.6.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "793.02",
+        "percentage": "27.97"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "108.48",
+        "percentage": "32.77"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "53.35",
+        "percentage": "19.64"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "204.48",
+        "percentage": "26.24"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "234.57",
+        "percentage": "34.54"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "36.32",
+        "percentage": "16.51"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "36.60",
+        "percentage": "39.49"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "30.16",
+        "percentage": "38.69"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "35.21",
+        "percentage": "33.61"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "29.16",
+        "percentage": "26.00"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "148.97",
+        "percentage": "54.51"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "2.94",
+        "percentage": "15.00"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "61.08",
+        "percentage": "36.92"
+      }
+    },
+    "25.7.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "1286.33",
+        "percentage": "45.36"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "135.90",
+        "percentage": "41.05"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "119.07",
+        "percentage": "43.83"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "431.38",
+        "percentage": "55.35"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "431.24",
+        "percentage": "63.50"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "121.75",
+        "percentage": "55.35"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "48.63",
+        "percentage": "52.91"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "48.89",
+        "percentage": "62.71"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "72.95",
+        "percentage": "69.63"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "54.81",
+        "percentage": "48.88"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "176.94",
+        "percentage": "64.75"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.27",
+        "percentage": "16.68"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "79.74",
+        "percentage": "48.20"
+      }
+    },
+    "26.6.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "782.22",
+        "percentage": "27.59"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "108.63",
+        "percentage": "32.81"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "53.55",
+        "percentage": "19.71"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "206.46",
+        "percentage": "26.49"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "235.94",
+        "percentage": "34.74"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "37.47",
+        "percentage": "17.04"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "36.23",
+        "percentage": "39.41"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "30.16",
+        "percentage": "38.69"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "35.39",
+        "percentage": "33.77"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "29.41",
+        "percentage": "26.23"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "148.01",
+        "percentage": "54.16"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "2.94",
+        "percentage": "15.00"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "60.75",
+        "percentage": "36.72"
+      }
+    },
+    "26.7.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "1292.52",
+        "percentage": "45.58"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "136.37",
+        "percentage": "41.19"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "120.01",
+        "percentage": "44.17"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "434.89",
+        "percentage": "55.80"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "432.37",
+        "percentage": "63.67"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "123.03",
+        "percentage": "55.93"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "48.80",
+        "percentage": "53.09"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "49.31",
+        "percentage": "63.25"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "73.17",
+        "percentage": "69.84"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "55.25",
+        "percentage": "49.27"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "177.59",
+        "percentage": "64.99"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.27",
+        "percentage": "16.68"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "80.32",
+        "percentage": "48.55"
+      }
+    },
+    "27.6.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "774.12",
+        "percentage": "27.30"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "108.77",
+        "percentage": "32.86"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "53.68",
+        "percentage": "19.76"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "206.46",
+        "percentage": "26.49"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "237.12",
+        "percentage": "34.92"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "38.61",
+        "percentage": "17.55"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "36.20",
+        "percentage": "39.38"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "30.16",
+        "percentage": "38.69"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "36.03",
+        "percentage": "34.39"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "29.50",
+        "percentage": "26.31"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "147.04",
+        "percentage": "53.81"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.02",
+        "percentage": "15.41"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "60.10",
+        "percentage": "36.33"
+      }
+    },
+    "27.7.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "1304.90",
+        "percentage": "46.02"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "136.85",
+        "percentage": "41.34"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "120.95",
+        "percentage": "44.52"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "438.40",
+        "percentage": "56.25"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "433.22",
+        "percentage": "63.79"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "124.21",
+        "percentage": "56.47"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "48.92",
+        "percentage": "53.22"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "49.72",
+        "percentage": "63.78"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "73.42",
+        "percentage": "70.08"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "55.46",
+        "percentage": "49.46"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "177.99",
+        "percentage": "65.13"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.32",
+        "percentage": "16.94"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "80.51",
+        "percentage": "48.66"
+      }
+    },
+    "28.6.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "770.07",
+        "percentage": "27.16"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "108.92",
+        "percentage": "32.90"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "53.81",
+        "percentage": "19.81"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "206.46",
+        "percentage": "26.49"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "238.49",
+        "percentage": "35.12"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "39.92",
+        "percentage": "18.15"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "36.01",
+        "percentage": "39.17"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "29.86",
+        "percentage": "38.30"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "36.53",
+        "percentage": "34.87"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "29.53",
+        "percentage": "26.33"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "145.96",
+        "percentage": "53.41"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.02",
+        "percentage": "15.41"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "59.45",
+        "percentage": "35.84"
+      }
+    },
+    "28.7.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "1313.15",
+        "percentage": "46.31"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "137.16",
+        "percentage": "41.43"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "121.54",
+        "percentage": "44.74"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "441.93",
+        "percentage": "56.71"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "434.07",
+        "percentage": "63.92"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "125.47",
+        "percentage": "57.04"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "49.09",
+        "percentage": "43.40"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "50.14",
+        "percentage": "64.32"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "73.42",
+        "percentage": "70.08"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "55.83",
+        "percentage": "49.79"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "178.51",
+        "percentage": "65.32"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.32",
+        "percentage": "16.94"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "80.70",
+        "percentage": "48.78"
+      }
+    },
+    "29.6.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "767.37",
+        "percentage": "27.06"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "108.92",
+        "percentage": "32.90"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "53.87",
+        "percentage": "19.83"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "206.46",
+        "percentage": "26.49"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "240.10",
+        "percentage": "35.35"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "42.12",
+        "percentage": "19.15"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "36.01",
+        "percentage": "39.17"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "29.56",
+        "percentage": "37.92"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "37.55",
+        "percentage": "35.84"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "29.55",
+        "percentage": "26.35"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "144.87",
+        "percentage": "53.01"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.06",
+        "percentage": "15.61"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "58.64",
+        "percentage": "35.45"
+      }
+    },
+    "29.7.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "1319.33",
+        "percentage": "46.53"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "137.48",
+        "percentage": "41.53"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "122.14",
+        "percentage": "44.96"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "445.47",
+        "percentage": "57.16"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "434.92",
+        "percentage": "64.04"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "126.61",
+        "percentage": "57.56"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "49.17",
+        "percentage": "53.50"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "50.14",
+        "percentage": "64.32"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "73.77",
+        "percentage": "70.41"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "56.17",
+        "percentage": "50.09"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "178.77",
+        "percentage": "65.42"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.36",
+        "percentage": "17.14"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "81.09",
+        "percentage": "49.01"
+      }
+    },
+    "3.6.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "803.82",
+        "percentage": "28.35"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "102.78",
+        "percentage": "31.05"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "59.10",
+        "percentage": "21.75"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "127.37",
+        "percentage": "16.34"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "172.07",
+        "percentage": "25.34"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "22.18",
+        "percentage": "10.08"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "40.29",
+        "percentage": "73.83"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "20.78",
+        "percentage": "26.65"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "22.45",
+        "percentage": "21.43"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "27.86",
+        "percentage": "24.84"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "163.87",
+        "percentage": "59.96"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.70",
+        "percentage": "18.88"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "63.74",
+        "percentage": "38.53"
+      }
+    },
+    "3.7.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "759.27",
+        "percentage": "26.78"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "109.22",
+        "percentage": "32.99"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "54.66",
+        "percentage": "20.12"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "218.35",
+        "percentage": "28.02"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "251.00",
+        "percentage": "36.96"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "53.59",
+        "percentage": "24.36"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "35.66",
+        "percentage": "38.80"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "31.05",
+        "percentage": "39.83"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "42.56",
+        "percentage": "40.62"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "30.09",
+        "percentage": "26.83"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "141.01",
+        "percentage": "51.60"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.02",
+        "percentage": "15.41"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "56.09",
+        "percentage": "33.90"
+      }
+    },
+    "3.8.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "1342.04",
+        "percentage": "47.33"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "138.58",
+        "percentage": "41.86"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "124.29",
+        "percentage": "45.75"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "460.91",
+        "percentage": "59.14"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "442.28",
+        "percentage": "65.13"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "134.10",
+        "percentage": "60.96"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "49.80",
+        "percentage": "54.17"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "52.21",
+        "percentage": "66.97"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "76.92",
+        "percentage": "73.42"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "57.41",
+        "percentage": "51.19"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "180.34",
+        "percentage": "65.99"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.45",
+        "percentage": "17.60"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "81.86",
+        "percentage": "49.48"
+      }
+    },
+    "30.6.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "760.62",
+        "percentage": "26.82"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "109.07",
+        "percentage": "32.95"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "54.43",
+        "percentage": "20.03"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "206.46",
+        "percentage": "26.49"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "243.91",
+        "percentage": "35.92"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "48.01",
+        "percentage": "21.83"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "35.74",
+        "percentage": "38.88"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "29.86",
+        "percentage": "38.30"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "39.22",
+        "percentage": "37.43"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "29.99",
+        "percentage": "26.74"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "143.19",
+        "percentage": "52.40"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.02",
+        "percentage": "15.41"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "57.04",
+        "percentage": "34.48"
+      }
+    },
+    "30.7.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "1321.40",
+        "percentage": "46.60"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "137.79",
+        "percentage": "41.62"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "122.73",
+        "percentage": "45.17"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "446.65",
+        "percentage": "57.31"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "435.49",
+        "percentage": "64.13"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "127.61",
+        "percentage": "58.01"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "49.34",
+        "percentage": "53.68"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "50.55",
+        "percentage": "64.84"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "74.72",
+        "percentage": "71.32"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "56.58",
+        "percentage": "50.45"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "179.17",
+        "percentage": "65.56"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.36",
+        "percentage": "17.14"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "81.48",
+        "percentage": "49.25"
+      }
+    },
+    "31.7.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "1321.40",
+        "percentage": "46.60"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "137.95",
+        "percentage": "41.67"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "123.09",
+        "percentage": "45.31"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "449.01",
+        "percentage": "57.61"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "436.62",
+        "percentage": "64.29"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "128.57",
+        "percentage": "58.45"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "49.42",
+        "percentage": "53.77"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "50.97",
+        "percentage": "65.38"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "75.07",
+        "percentage": "71.65"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "56.69",
+        "percentage": "50.55"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "179.42",
+        "percentage": "65.66"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.40",
+        "percentage": "17.35"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "81.66",
+        "percentage": "49.36"
+      }
+    },
+    "4.6.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "815.97",
+        "percentage": "28.78"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "104.66",
+        "percentage": "31.61"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "58.33",
+        "percentage": "21.47"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "130.94",
+        "percentage": "16.80"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "171.41",
+        "percentage": "25.24"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "27.14",
+        "percentage": "12.34"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "40.64",
+        "percentage": "44.21"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "23.05",
+        "percentage": "29.57"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "23.32",
+        "percentage": "22.26"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "28.64",
+        "percentage": "25.54"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "165.30",
+        "percentage": "60.49"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.66",
+        "percentage": "18.67"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "63.08",
+        "percentage": "38.13"
+      }
+    },
+    "4.7.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "761.97",
+        "percentage": "26.87"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "109.37",
+        "percentage": "33.04"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "54.86",
+        "percentage": "20.19"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "220.33",
+        "percentage": "28.27"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "259.66",
+        "percentage": "38.24"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "57.93",
+        "percentage": "26.33"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "35.48",
+        "percentage": "38.59"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "32.02",
+        "percentage": "41.07"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "44.68",
+        "percentage": "42.65"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "30.46",
+        "percentage": "27.16"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "141.01",
+        "percentage": "51.60"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "2.98",
+        "percentage": "15.20"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "55.78",
+        "percentage": "33.72"
+      }
+    },
+    "4.8.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "1389.75",
+        "percentage": "49.01"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "140.01",
+        "percentage": "42.29"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "125.61",
+        "percentage": "46.23"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "482.58",
+        "percentage": "61.92"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "454.06",
+        "percentage": "66.86"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "143.99",
+        "percentage": "65.46"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "50.22",
+        "percentage": "54.63"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "54.77",
+        "percentage": "70.25"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "79.28",
+        "percentage": "75.67"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "58.98",
+        "percentage": "52.59"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "181.39",
+        "percentage": "66.38"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.45",
+        "percentage": "17.60"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "82.05",
+        "percentage": "49.60"
+      }
+    },
+    "5.6.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "813.27",
+        "percentage": "28.68"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "105.10",
+        "percentage": "31.75"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "57.57",
+        "percentage": "21.19"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "136.09",
+        "percentage": "17.46"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "170.75",
+        "percentage": "25.14"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "17.19",
+        "percentage": "7.82"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "40.80",
+        "percentage": "44.38"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "23.58",
+        "percentage": "30.25"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "23.51",
+        "percentage": "22.44"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "29.09",
+        "percentage": "25.94"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "164.78",
+        "percentage": "60.30"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.62",
+        "percentage": "18.47"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "63.91",
+        "percentage": "38.63"
+      }
+    },
+    "5.7.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "799.77",
+        "percentage": "28.21"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "110.12",
+        "percentage": "33.26"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "57.29",
+        "percentage": "21.09"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "231.09",
+        "percentage": "29.65"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "270.49",
+        "percentage": "39.83"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "62.60",
+        "percentage": "28.46"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "35.66",
+        "percentage": "38.80"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "34.04",
+        "percentage": "43.66"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "46.82",
+        "percentage": "44.69"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "32.43",
+        "percentage": "28.92"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "142.34",
+        "percentage": "52.09"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "2.98",
+        "percentage": "15.20"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "55.30",
+        "percentage": "33.43"
+      }
+    },
+    "6.6.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "810.57",
+        "percentage": "28.59"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "104.37",
+        "percentage": "31.53"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "56.61",
+        "percentage": "20.84"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "136.09",
+        "percentage": "17.46"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "170.09",
+        "percentage": "25.05"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "20.71",
+        "percentage": "9.42"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "40.32",
+        "percentage": "43.87"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "24.10",
+        "percentage": "30.91"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "23.63",
+        "percentage": "22.55"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "29.18",
+        "percentage": "26.02"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "163.87",
+        "percentage": "59.96"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.57",
+        "percentage": "18.21"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "64.76",
+        "percentage": "39.14"
+      }
+    },
+    "6.7.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "828.12",
+        "percentage": "29.20"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "111.53",
+        "percentage": "33.69"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "60.67",
+        "percentage": "22.33"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "242.44",
+        "percentage": "31.11"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "280.03",
+        "percentage": "41.24"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "65.39",
+        "percentage": "29.73"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "36.05",
+        "percentage": "39.21"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "34.71",
+        "percentage": "44.52"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "48.44",
+        "percentage": "46.23"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "34.40",
+        "percentage": "30.68"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "144.51",
+        "percentage": "52.88"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "2.98",
+        "percentage": "15.20"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "54.83",
+        "percentage": "33.14"
+      }
+    },
+    "7.6.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "810.57",
+        "percentage": "28.59"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "104.37",
+        "percentage": "31.53"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "56.61",
+        "percentage": "20.84"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "136.09",
+        "percentage": "17.46"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "170.09",
+        "percentage": "25.05"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "20.71",
+        "percentage": "9.42"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "40.32",
+        "percentage": "43.87"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "24.10",
+        "percentage": "30.91"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "23.63",
+        "percentage": "22.55"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "29.18",
+        "percentage": "26.02"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "163.87",
+        "percentage": "59.96"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.57",
+        "percentage": "18.21"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "64.76",
+        "percentage": "39.14"
+      }
+    },
+    "7.7.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "863.21",
+        "percentage": "30.44"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "113.28",
+        "percentage": "34.25"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "68.63",
+        "percentage": "25.26"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "256.86",
+        "percentage": "32.96"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "292.51",
+        "percentage": "43.07"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "70.35",
+        "percentage": "31.98"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "36.84",
+        "percentage": "40.08"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "35.39",
+        "percentage": "45.40"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "50.22",
+        "percentage": "47.93"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "36.11",
+        "percentage": "32.20"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "148.00",
+        "percentage": "54.16"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "2.98",
+        "percentage": "15.20"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "56.09",
+        "percentage": "33.90"
+      }
+    },
+    "8.6.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "810.57",
+        "percentage": "28.59"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "102.78",
+        "percentage": "31.05"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "54.80",
+        "percentage": "20.17"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "136.09",
+        "percentage": "17.46"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "168.77",
+        "percentage": "24.85"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "21.00",
+        "percentage": "9.55"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "39.07",
+        "percentage": "42.50"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "24.10",
+        "percentage": "30.91"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "23.80",
+        "percentage": "22.72"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "28.98",
+        "percentage": "25.84"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "162.30",
+        "percentage": "59.39"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.49",
+        "percentage": "17.81"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "64.76",
+        "percentage": "39.14"
+      }
+    },
+    "8.7.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "910.46",
+        "percentage": "32.11"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "116.08",
+        "percentage": "35.06"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "79.33",
+        "percentage": "29.20"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "278.11",
+        "percentage": "35.69"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "321.31",
+        "percentage": "47.31"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "83.39",
+        "percentage": "37.91"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "38.26",
+        "percentage": "41.62"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "37.41",
+        "percentage": "47.99"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "52.23",
+        "percentage": "49.85"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "38.18",
+        "percentage": "34.05"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "151.50",
+        "percentage": "55.44"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.02",
+        "percentage": "15.41"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "57.35",
+        "percentage": "34.67"
+      }
+    },
+    "9.6.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "770.07",
+        "percentage": "27.16"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "102.92",
+        "percentage": "31.09"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "49.95",
+        "percentage": "18.39"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "136.09",
+        "percentage": "17.46"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "170.75",
+        "percentage": "25.14"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "23.90",
+        "percentage": "10.87"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "38.76",
+        "percentage": "42.17"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "24.88",
+        "percentage": "31.91"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "26.80",
+        "percentage": "25.58"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "27.83",
+        "percentage": "24.82"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "156.57",
+        "percentage": "57.29"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "3.27",
+        "percentage": "16.68"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "63.74",
+        "percentage": "38.53"
+      }
+    },
+    "9.7.2020": {
+      "Koyna": {
+        "totalStorage": 2835.54,
+        "currentStorage": "972.07",
+        "percentage": "34.28"
+      },
+      "Dhom": {
+        "totalStorage": 331.05,
+        "currentStorage": "120.61",
+        "percentage": "36.43"
+      },
+      "Kanher": {
+        "totalStorage": 271.68,
+        "currentStorage": "85.99",
+        "percentage": "31.65"
+      },
+      "Warana": {
+        "totalStorage": 779.34,
+        "currentStorage": "295.67",
+        "percentage": "37.94"
+      },
+      "Doodhganga": {
+        "totalStorage": 679.11,
+        "currentStorage": "342.21",
+        "percentage": "50.39"
+      },
+      "Radhanagari": {
+        "totalStorage": 219.97,
+        "currentStorage": "94.29",
+        "percentage": "42.87"
+      },
+      "Tulshi": {
+        "totalStorage": 91.92,
+        "currentStorage": "39.58",
+        "percentage": "43.06"
+      },
+      "Kasari": {
+        "totalStorage": 77.96,
+        "currentStorage": "39.21",
+        "percentage": "50.30"
+      },
+      "Patgaon": {
+        "totalStorage": 104.77,
+        "currentStorage": "60.97",
+        "percentage": "58.19"
+      },
+      "Dhom Balkawadi": {
+        "totalStorage": 112.14,
+        "currentStorage": "40.95",
+        "percentage": "36.52"
+      },
+      "Urmodi": {
+        "totalStorage": 273.27,
+        "currentStorage": "154.64",
+        "percentage": "56.59"
+      },
+      "Yeralwadi": {
+        "totalStorage": 19.6,
+        "currentStorage": "30.02",
+        "percentage": "15.41"
+      },
+      "Tarali": {
+        "totalStorage": 165.46,
+        "currentStorage": "58.48",
+        "percentage": "35.35"
       }
     }
   }
