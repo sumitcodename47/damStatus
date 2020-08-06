@@ -12,7 +12,7 @@
         <input matInput [matDatepicker]="picker" [value]="date.value" (dateChange)="dateChnaged($event)">
         <mat-datepicker #picker></mat-datepicker>
       </mat-form-field>
-      <button mat-raised-button (click)="picker.open()">Open</button>
+      <button mat-raised-button (click)="picker.open()">तारीख बदला. Change Date</button>
     </div>
 
   </div>
@@ -21,25 +21,25 @@
       <mat-table [dataSource]="dataSource" class="mat-elevation-z8">
         <!-- Position Column -->
         <ng-container matColumnDef="name">
-          <mat-header-cell *matHeaderCellDef> Dam </mat-header-cell>
+          <mat-header-cell *matHeaderCellDef> धरण </mat-header-cell>
           <mat-cell *matCellDef="let element"> {{element.name}} </mat-cell>
         </ng-container>
 
         <!-- Name Column -->
         <ng-container matColumnDef="totalStorage">
-          <mat-header-cell *matHeaderCellDef> Total Storage </mat-header-cell>
+          <mat-header-cell *matHeaderCellDef> एकूण साठा </mat-header-cell>
           <mat-cell *matCellDef="let element"> {{element.totalStorage}} </mat-cell>
         </ng-container>
 
         <!-- Weight Column -->
         <ng-container matColumnDef="currentStorage">
-          <mat-header-cell *matHeaderCellDef> Current Storage </mat-header-cell>
+          <mat-header-cell *matHeaderCellDef> आजचा साठा </mat-header-cell>
           <mat-cell *matCellDef="let element"> {{element.currentStorage}} </mat-cell>
         </ng-container>
 
         <!-- Symbol Column -->
         <ng-container matColumnDef="percentage">
-          <mat-header-cell *matHeaderCellDef> Percentage </mat-header-cell>
+          <mat-header-cell *matHeaderCellDef> टक्केवारी </mat-header-cell>
           <mat-cell *matCellDef="let element"> {{element.percentage/100 | percent:'2.2-2'}} </mat-cell>
         </ng-container>
 
@@ -47,7 +47,12 @@
         <mat-row *matRowDef="let row; columns: displayedColumns;"></mat-row>
       </mat-table>
       <div *ngIf="!dataSource" class="text-monospace text-warning text-center h2">
-        No data available for selected date.
+        <br>
+        निवडलेल्या तारखेची माहिती उपलब्ध नाही,
+        कृपया दुसरी तारीख निवडा.
+        <br>
+        No data available for selected date,
+        Please select different data.
       </div>
     </div>
   </div>
