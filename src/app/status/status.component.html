@@ -2,8 +2,8 @@
   <div>
     <div>
       <mat-radio-group (change)="onBasinChange($event)">
-        <mat-radio-button checked value="dataKrishna">Krishna Basin</mat-radio-button>
-        <mat-radio-button value="dataBhima">Bhima Basin</mat-radio-button>
+        <mat-radio-button checked value="dataKrishna">कृष्णा खोरे / Krishna Basin</mat-radio-button>
+        <mat-radio-button value="dataBhima">भीमा खोरे / Bhima Basin</mat-radio-button>
       </mat-radio-group>
     </div>
     <div>
@@ -40,7 +40,8 @@
         <!-- Symbol Column -->
         <ng-container matColumnDef="percentage">
           <mat-header-cell *matHeaderCellDef> टक्केवारी </mat-header-cell>
-          <mat-cell *matCellDef="let element"> {{element.percentage/100 | percent:'2.2-2'}} </mat-cell>
+          <mat-cell *matCellDef="let element" [ngStyle]="getColor(element.percentage)">
+            {{element.percentage/100 | percent:'2.2-2'}} </mat-cell>
         </ng-container>
 
         <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
@@ -52,7 +53,7 @@
         कृपया दुसरी तारीख निवडा.
         <br>
         No data available for selected date,
-        Please select different data.
+        Please select different date.
       </div>
     </div>
   </div>

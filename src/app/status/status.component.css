@@ -5,3 +5,14 @@ table {
 mat-form-field {
   margin-right: 12px;
 }
+
+.mat-header-cell {
+  font-size: 14px;
+  font-weight: 600;
+  color: black;
+}
+
+mat-header-cell:first-of-type,
+mat-cell:first-of-type {
+  padding-left: 12px;
+}

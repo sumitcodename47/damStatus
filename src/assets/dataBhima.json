@@ -1,5 +1,467 @@
 {
   "Bhima": {
+    "1.7.2020": {
+      "Pawana": {
+        "totalStorage": "240.97",
+        "currentStorage": "72.12",
+        "percentage": "29.93"
+      },
+      "Kasarsai": {
+        "totalStorage": "16.06",
+        "currentStorage": "5.38",
+        "percentage": "33.50"
+      },
+      "Mulshi": {
+        "totalStorage": "523.00",
+        "currentStorage": "40.59",
+        "percentage": "7.76"
+      },
+      "Temghar": {
+        "totalStorage": "105.01",
+        "currentStorage": "4.22",
+        "percentage": "4.02"
+      },
+      "Warasgaon": {
+        "totalStorage": "363.13",
+        "currentStorage": "48.52",
+        "percentage": "13.36"
+      },
+      "Panshet": {
+        "totalStorage": "301.61",
+        "currentStorage": "61.18",
+        "percentage": "20.28"
+      },
+      "Khadakwasla": {
+        "totalStorage": "55.91",
+        "currentStorage": "35.18",
+        "percentage": "62.92"
+      },
+      "Ujjani": {
+        "totalStorage": "1517.19",
+        "currentStorage": "-203.23",
+        "percentage": "-13.40"
+      }
+    },
+    "1.8.2020": {
+      "Pawana": {
+        "totalStorage": "240.97",
+        "currentStorage": "80.18",
+        "percentage": "33.27"
+      },
+      "Kasarsai": {
+        "totalStorage": "16.06",
+        "currentStorage": "6.61",
+        "percentage": "41.16"
+      },
+      "Mulshi": {
+        "totalStorage": "523.00",
+        "currentStorage": "148.67",
+        "percentage": "28.44"
+      },
+      "Temghar": {
+        "totalStorage": "105.01",
+        "currentStorage": "20.96",
+        "percentage": "19.96"
+      },
+      "Warasgaon": {
+        "totalStorage": "363.13",
+        "currentStorage": "117.82",
+        "percentage": "32.45"
+      },
+      "Panshet": {
+        "totalStorage": "301.61",
+        "currentStorage": "122.46",
+        "percentage": "40.60"
+      },
+      "Khadakwasla": {
+        "totalStorage": "55.91",
+        "currentStorage": "18.00",
+        "percentage": "32.19"
+      },
+      "Ujjani": {
+        "totalStorage": "1517.19",
+        "currentStorage": "172.61",
+        "percentage": "11.38"
+      }
+    },
+    "10.7.2020": {
+      "Pawana": {
+        "totalStorage": "240.97",
+        "currentStorage": "80.98",
+        "percentage": "33.61"
+      },
+      "Kasarsai": {
+        "totalStorage": "16.06",
+        "currentStorage": "6.15",
+        "percentage": "38.29"
+      },
+      "Mulshi": {
+        "totalStorage": "523.00",
+        "currentStorage": "99.98",
+        "percentage": "19.12"
+      },
+      "Temghar": {
+        "totalStorage": "105.01",
+        "currentStorage": "12.21",
+        "percentage": "11.63"
+      },
+      "Warasgaon": {
+        "totalStorage": "363.13",
+        "currentStorage": "85.15",
+        "percentage": "23.45"
+      },
+      "Panshet": {
+        "totalStorage": "301.61",
+        "currentStorage": "98.05",
+        "percentage": "32.51"
+      },
+      "Khadakwasla": {
+        "totalStorage": "55.91",
+        "currentStorage": "29.70",
+        "percentage": "53.12"
+      },
+      "Ujjani": {
+        "totalStorage": "1517.19",
+        "currentStorage": "-90.79",
+        "percentage": "-5.98"
+      }
+    },
+    "11.7.2020": {
+      "Pawana": {
+        "totalStorage": "240.97",
+        "currentStorage": "80.98",
+        "percentage": "33.61"
+      },
+      "Kasarsai": {
+        "totalStorage": "16.06",
+        "currentStorage": "6.15",
+        "percentage": "38.29"
+      },
+      "Mulshi": {
+        "totalStorage": "523.00",
+        "currentStorage": "99.98",
+        "percentage": "19.12"
+      },
+      "Temghar": {
+        "totalStorage": "105.01",
+        "currentStorage": "12.21",
+        "percentage": "11.63"
+      },
+      "Warasgaon": {
+        "totalStorage": "363.13",
+        "currentStorage": "85.15",
+        "percentage": "23.45"
+      },
+      "Panshet": {
+        "totalStorage": "301.61",
+        "currentStorage": "98.05",
+        "percentage": "32.51"
+      },
+      "Khadakwasla": {
+        "totalStorage": "55.91",
+        "currentStorage": "29.70",
+        "percentage": "53.12"
+      },
+      "Ujjani": {
+        "totalStorage": "1517.19",
+        "currentStorage": "-90.79",
+        "percentage": "-5.98"
+      }
+    },
+    "12.7.2020": {
+      "Pawana": {
+        "totalStorage": "240.97",
+        "currentStorage": "80.98",
+        "percentage": "33.61"
+      },
+      "Kasarsai": {
+        "totalStorage": "16.06",
+        "currentStorage": "6.15",
+        "percentage": "38.29"
+      },
+      "Mulshi": {
+        "totalStorage": "523.00",
+        "currentStorage": "99.98",
+        "percentage": "19.12"
+      },
+      "Temghar": {
+        "totalStorage": "105.01",
+        "currentStorage": "12.21",
+        "percentage": "11.63"
+      },
+      "Warasgaon": {
+        "totalStorage": "363.13",
+        "currentStorage": "85.15",
+        "percentage": "23.45"
+      },
+      "Panshet": {
+        "totalStorage": "301.61",
+        "currentStorage": "98.05",
+        "percentage": "32.51"
+      },
+      "Khadakwasla": {
+        "totalStorage": "55.91",
+        "currentStorage": "29.70",
+        "percentage": "53.12"
+      },
+      "Ujjani": {
+        "totalStorage": "1517.19",
+        "currentStorage": "-90.79",
+        "percentage": "-5.98"
+      }
+    },
+    "13.7.2020": {
+      "Pawana": {
+        "totalStorage": "240.97",
+        "currentStorage": "80.98",
+        "percentage": "33.61"
+      },
+      "Kasarsai": {
+        "totalStorage": "16.06",
+        "currentStorage": "6.38",
+        "percentage": "39.73"
+      },
+      "Mulshi": {
+        "totalStorage": "523.00",
+        "currentStorage": "108.15",
+        "percentage": "20.69"
+      },
+      "Temghar": {
+        "totalStorage": "105.01",
+        "currentStorage": "14.36",
+        "percentage": "13.67"
+      },
+      "Warasgaon": {
+        "totalStorage": "363.13",
+        "currentStorage": "91.15",
+        "percentage": "25.10"
+      },
+      "Panshet": {
+        "totalStorage": "301.61",
+        "currentStorage": "103.86",
+        "percentage": "34.44"
+      },
+      "Khadakwasla": {
+        "totalStorage": "55.91",
+        "currentStorage": "28.31",
+        "percentage": "50.63"
+      },
+      "Ujjani": {
+        "totalStorage": "1517.19",
+        "currentStorage": "-43.01",
+        "percentage": "-2.83"
+      }
+    },
+    "14.7.2020": {
+      "Pawana": {
+        "totalStorage": "240.97",
+        "currentStorage": "82.21",
+        "percentage": "34.12"
+      },
+      "Kasarsai": {
+        "totalStorage": "16.06",
+        "currentStorage": "6.38",
+        "percentage": "39.73"
+      },
+      "Mulshi": {
+        "totalStorage": "523.00",
+        "currentStorage": "109.62",
+        "percentage": "20.97"
+      },
+      "Temghar": {
+        "totalStorage": "105.01",
+        "currentStorage": "14.82",
+        "percentage": "14.11"
+      },
+      "Warasgaon": {
+        "totalStorage": "363.13",
+        "currentStorage": "92.88",
+        "percentage": "25.58"
+      },
+      "Panshet": {
+        "totalStorage": "301.61",
+        "currentStorage": "105.52",
+        "percentage": "34.99"
+      },
+      "Khadakwasla": {
+        "totalStorage": "55.91",
+        "currentStorage": "27.01",
+        "percentage": "48.31"
+      },
+      "Ujjani": {
+        "totalStorage": "1517.19",
+        "currentStorage": "-31.36",
+        "percentage": "-2.07"
+      }
+    },
+    "15.7.2020": {
+      "Pawana": {
+        "totalStorage": "240.97",
+        "currentStorage": "82.21",
+        "percentage": "34.12"
+      },
+      "Kasarsai": {
+        "totalStorage": "16.06",
+        "currentStorage": "6.38",
+        "percentage": "39.73"
+      },
+      "Mulshi": {
+        "totalStorage": "523.00",
+        "currentStorage": "110.51",
+        "percentage": "21.14"
+      },
+      "Temghar": {
+        "totalStorage": "105.01",
+        "currentStorage": "15.28",
+        "percentage": "14.55"
+      },
+      "Warasgaon": {
+        "totalStorage": "363.13",
+        "currentStorage": "94.58",
+        "percentage": "26.05"
+      },
+      "Panshet": {
+        "totalStorage": "301.61",
+        "currentStorage": "107.20",
+        "percentage": "35.54"
+      },
+      "Khadakwasla": {
+        "totalStorage": "55.91",
+        "currentStorage": "25.56",
+        "percentage": "45.72"
+      },
+      "Ujjani": {
+        "totalStorage": "1517.19",
+        "currentStorage": "-24.55",
+        "percentage": "-1.62"
+      }
+    },
+    "16.7.2020": {
+      "Pawana": {
+        "totalStorage": "240.97",
+        "currentStorage": "83.02",
+        "percentage": "34.45"
+      },
+      "Kasarsai": {
+        "totalStorage": "16.06",
+        "currentStorage": "6.50",
+        "percentage": "40.47"
+      },
+      "Mulshi": {
+        "totalStorage": "523.00",
+        "currentStorage": "112.87",
+        "percentage": "21.59"
+      },
+      "Temghar": {
+        "totalStorage": "105.01",
+        "currentStorage": "15.59",
+        "percentage": "14.85"
+      },
+      "Warasgaon": {
+        "totalStorage": "363.13",
+        "currentStorage": "96.31",
+        "percentage": "26.52"
+      },
+      "Panshet": {
+        "totalStorage": "301.61",
+        "currentStorage": "109.42",
+        "percentage": "36.28"
+      },
+      "Khadakwasla": {
+        "totalStorage": "55.91",
+        "currentStorage": "24.23",
+        "percentage": "43.34"
+      },
+      "Ujjani": {
+        "totalStorage": "1517.19",
+        "currentStorage": "-14.81",
+        "percentage": "-0.98"
+      }
+    },
+    "17.7.2020": {
+      "Pawana": {
+        "totalStorage": "240.97",
+        "currentStorage": "83.02",
+        "percentage": "34.45"
+      },
+      "Kasarsai": {
+        "totalStorage": "16.06",
+        "currentStorage": "6.50",
+        "percentage": "40.47"
+      },
+      "Mulshi": {
+        "totalStorage": "523.00",
+        "currentStorage": "116.70",
+        "percentage": "22.32"
+      },
+      "Temghar": {
+        "totalStorage": "105.01",
+        "currentStorage": "16.22",
+        "percentage": "15.45"
+      },
+      "Warasgaon": {
+        "totalStorage": "363.13",
+        "currentStorage": "98.88",
+        "percentage": "27.23"
+      },
+      "Panshet": {
+        "totalStorage": "301.61",
+        "currentStorage": "112.04",
+        "percentage": "37.15"
+      },
+      "Khadakwasla": {
+        "totalStorage": "55.91",
+        "currentStorage": "22.93",
+        "percentage": "41.01"
+      },
+      "Ujjani": {
+        "totalStorage": "1517.19",
+        "currentStorage": "-7.88",
+        "percentage": "-0.52"
+      }
+    },
+    "18.7.2020": {
+      "Pawana": {
+        "totalStorage": "240.97",
+        "currentStorage": "83.43",
+        "percentage": "34.62"
+      },
+      "Kasarsai": {
+        "totalStorage": "16.06",
+        "currentStorage": "6.50",
+        "percentage": "40.47"
+      },
+      "Mulshi": {
+        "totalStorage": "523.00",
+        "currentStorage": "120.27",
+        "percentage": "23.01"
+      },
+      "Temghar": {
+        "totalStorage": "105.01",
+        "currentStorage": "17.02",
+        "percentage": "16.21"
+      },
+      "Warasgaon": {
+        "totalStorage": "363.13",
+        "currentStorage": "101.88",
+        "percentage": "28.06"
+      },
+      "Panshet": {
+        "totalStorage": "301.61",
+        "currentStorage": "115.24",
+        "percentage": "38.21"
+      },
+      "Khadakwasla": {
+        "totalStorage": "55.91",
+        "currentStorage": "22.28",
+        "percentage": "39.85"
+      },
+      "Ujjani": {
+        "totalStorage": "1517.19",
+        "currentStorage": "-3.94",
+        "percentage": "-0.26"
+      }
+    },
     "19.7.2020": {
       "Pawana": {
         "totalStorage": "240.97",
@@ -42,6 +504,90 @@
         "percentage": "0.13"
       }
     },
+    "2.7.2020": {
+      "Pawana": {
+        "totalStorage": "240.97",
+        "currentStorage": "71.72",
+        "percentage": "29.76"
+      },
+      "Kasarsai": {
+        "totalStorage": "16.06",
+        "currentStorage": "5.38",
+        "percentage": "33.50"
+      },
+      "Mulshi": {
+        "totalStorage": "523.00",
+        "currentStorage": "40.08",
+        "percentage": "7.67"
+      },
+      "Temghar": {
+        "totalStorage": "105.01",
+        "currentStorage": "4.30",
+        "percentage": "4.09"
+      },
+      "Warasgaon": {
+        "totalStorage": "363.13",
+        "currentStorage": "48.52",
+        "percentage": "13.36"
+      },
+      "Panshet": {
+        "totalStorage": "301.61",
+        "currentStorage": "61.18",
+        "percentage": "20.28"
+      },
+      "Khadakwasla": {
+        "totalStorage": "55.91",
+        "currentStorage": "34.03",
+        "percentage": "60.87"
+      },
+      "Ujjani": {
+        "totalStorage": "1517.19",
+        "currentStorage": "-182.07",
+        "percentage": "-12.00"
+      }
+    },
+    "2.8.2020": {
+      "Pawana": {
+        "totalStorage": "240.97",
+        "currentStorage": "79.37",
+        "percentage": "32.94"
+      },
+      "Kasarsai": {
+        "totalStorage": "16.06",
+        "currentStorage": "6.61",
+        "percentage": "41.16"
+      },
+      "Mulshi": {
+        "totalStorage": "523.00",
+        "currentStorage": "149.61",
+        "percentage": "28.62"
+      },
+      "Temghar": {
+        "totalStorage": "105.01",
+        "currentStorage": "21.13",
+        "percentage": "20.12"
+      },
+      "Warasgaon": {
+        "totalStorage": "363.13",
+        "currentStorage": "118.30",
+        "percentage": "32.58"
+      },
+      "Panshet": {
+        "totalStorage": "301.61",
+        "currentStorage": "121.07",
+        "percentage": "40.14"
+      },
+      "Khadakwasla": {
+        "totalStorage": "55.91",
+        "currentStorage": "18.29",
+        "percentage": "32.71"
+      },
+      "Ujjani": {
+        "totalStorage": "1517.19",
+        "currentStorage": "180.08",
+        "percentage": "11.87"
+      }
+    },
     "20.7.2020": {
       "Pawana": {
         "totalStorage": "240.97",
@@ -82,6 +628,930 @@
         "totalStorage": "1517.19",
         "currentStorage": "8.92",
         "percentage": "0.59"
+      }
+    },
+    "21.7.2020": {
+      "Pawana": {
+        "totalStorage": "240.97",
+        "currentStorage": "115.40",
+        "percentage": "34.96"
+      },
+      "Kasarsai": {
+        "totalStorage": "16.06",
+        "currentStorage": "7.93",
+        "percentage": "41.16"
+      },
+      "Mulshi": {
+        "totalStorage": "523.00",
+        "currentStorage": "144.35",
+        "percentage": "25.13"
+      },
+      "Temghar": {
+        "totalStorage": "105.01",
+        "currentStorage": "21.80",
+        "percentage": "17.95"
+      },
+      "Warasgaon": {
+        "totalStorage": "363.13",
+        "currentStorage": "121.70",
+        "percentage": "30.15"
+      },
+      "Panshet": {
+        "totalStorage": "301.61",
+        "currentStorage": "133.41",
+        "percentage": "41.25"
+      },
+      "Khadakwasla": {
+        "totalStorage": "55.91",
+        "currentStorage": "49.53",
+        "percentage": "34.93"
+      },
+      "Ujjani": {
+        "totalStorage": "1517.19",
+        "currentStorage": "14.87",
+        "percentage": "0.98"
+      }
+    },
+    "22.7.2020": {
+      "Pawana": {
+        "totalStorage": "240.97",
+        "currentStorage": "84.25",
+        "percentage": "34.96"
+      },
+      "Kasarsai": {
+        "totalStorage": "16.06",
+        "currentStorage": "6.61",
+        "percentage": "41.16"
+      },
+      "Mulshi": {
+        "totalStorage": "523.00",
+        "currentStorage": "133.45",
+        "percentage": "25.53"
+      },
+      "Temghar": {
+        "totalStorage": "105.01",
+        "currentStorage": "19.20",
+        "percentage": "18.28"
+      },
+      "Warasgaon": {
+        "totalStorage": "363.13",
+        "currentStorage": "110.43",
+        "percentage": "30.41"
+      },
+      "Panshet": {
+        "totalStorage": "301.61",
+        "currentStorage": "126.85",
+        "percentage": "42.06"
+      },
+      "Khadakwasla": {
+        "totalStorage": "55.91",
+        "currentStorage": "18.29",
+        "percentage": "32.71"
+      },
+      "Ujjani": {
+        "totalStorage": "1517.19",
+        "currentStorage": "21.86",
+        "percentage": "1.44"
+      }
+    },
+    "23.7.2020": {
+      "Pawana": {
+        "totalStorage": "240.97",
+        "currentStorage": "84.25",
+        "percentage": "34.96"
+      },
+      "Kasarsai": {
+        "totalStorage": "16.06",
+        "currentStorage": "6.61",
+        "percentage": "41.16"
+      },
+      "Mulshi": {
+        "totalStorage": "523.00",
+        "currentStorage": "134.05",
+        "percentage": "25.64"
+      },
+      "Temghar": {
+        "totalStorage": "105.01",
+        "currentStorage": "19.55",
+        "percentage": "18.62"
+      },
+      "Warasgaon": {
+        "totalStorage": "363.13",
+        "currentStorage": "111.42",
+        "percentage": "30.68"
+      },
+      "Panshet": {
+        "totalStorage": "301.61",
+        "currentStorage": "126.51",
+        "percentage": "41.94"
+      },
+      "Khadakwasla": {
+        "totalStorage": "55.91",
+        "currentStorage": "18.00",
+        "percentage": "32.19"
+      },
+      "Ujjani": {
+        "totalStorage": "1517.19",
+        "currentStorage": "28.85",
+        "percentage": "1.90"
+      }
+    },
+    "24.7.2020": {
+      "Pawana": {
+        "totalStorage": "240.97",
+        "currentStorage": "84.25",
+        "percentage": "34.96"
+      },
+      "Kasarsai": {
+        "totalStorage": "16.06",
+        "currentStorage": "6.61",
+        "percentage": "41.16"
+      },
+      "Mulshi": {
+        "totalStorage": "523.00",
+        "currentStorage": "135.55",
+        "percentage": "25.93"
+      },
+      "Temghar": {
+        "totalStorage": "105.01",
+        "currentStorage": "19.72",
+        "percentage": "18.78"
+      },
+      "Warasgaon": {
+        "totalStorage": "363.13",
+        "currentStorage": "112.41",
+        "percentage": "30.96"
+      },
+      "Panshet": {
+        "totalStorage": "301.61",
+        "currentStorage": "124.67",
+        "percentage": "41.33"
+      },
+      "Khadakwasla": {
+        "totalStorage": "55.91",
+        "currentStorage": "19.19",
+        "percentage": "34.32"
+      },
+      "Ujjani": {
+        "totalStorage": "1517.19",
+        "currentStorage": "33.85",
+        "percentage": "2.23"
+      }
+    },
+    "25.7.2020": {
+      "Pawana": {
+        "totalStorage": "240.97",
+        "currentStorage": "83.43",
+        "percentage": "34.62"
+      },
+      "Kasarsai": {
+        "totalStorage": "16.06",
+        "currentStorage": "6.73",
+        "percentage": "41.91"
+      },
+      "Mulshi": {
+        "totalStorage": "523.00",
+        "currentStorage": "137.05",
+        "percentage": "26.22"
+      },
+      "Temghar": {
+        "totalStorage": "105.01",
+        "currentStorage": "20.07",
+        "percentage": "19.11"
+      },
+      "Warasgaon": {
+        "totalStorage": "363.13",
+        "currentStorage": "113.38",
+        "percentage": "31.22"
+      },
+      "Panshet": {
+        "totalStorage": "301.61",
+        "currentStorage": "122.74",
+        "percentage": "40.69"
+      },
+      "Khadakwasla": {
+        "totalStorage": "55.91",
+        "currentStorage": "21.06",
+        "percentage": "37.67"
+      },
+      "Ujjani": {
+        "totalStorage": "1517.19",
+        "currentStorage": "64.19",
+        "percentage": "4.23"
+      }
+    },
+    "26.7.2020": {
+      "Pawana": {
+        "totalStorage": "240.97",
+        "currentStorage": "83.02",
+        "percentage": "34.45"
+      },
+      "Kasarsai": {
+        "totalStorage": "16.06",
+        "currentStorage": "6.73",
+        "percentage": "41.91"
+      },
+      "Mulshi": {
+        "totalStorage": "523.00",
+        "currentStorage": "139.46",
+        "percentage": "26.68"
+      },
+      "Temghar": {
+        "totalStorage": "105.01",
+        "currentStorage": "20.25",
+        "percentage": "19.28"
+      },
+      "Warasgaon": {
+        "totalStorage": "363.13",
+        "currentStorage": "114.37",
+        "percentage": "31.50"
+      },
+      "Panshet": {
+        "totalStorage": "301.61",
+        "currentStorage": "120.79",
+        "percentage": "40.05"
+      },
+      "Khadakwasla": {
+        "totalStorage": "55.91",
+        "currentStorage": "22.93",
+        "percentage": "41.01"
+      },
+      "Ujjani": {
+        "totalStorage": "1517.19",
+        "currentStorage": "87.72",
+        "percentage": "5.78"
+      }
+    },
+    "27.7.2020": {
+      "Pawana": {
+        "totalStorage": "240.97",
+        "currentStorage": "83.02",
+        "percentage": "34.45"
+      },
+      "Kasarsai": {
+        "totalStorage": "16.06",
+        "currentStorage": "6.73",
+        "percentage": "41.91"
+      },
+      "Mulshi": {
+        "totalStorage": "523.00",
+        "currentStorage": "141.91",
+        "percentage": "27.15"
+      },
+      "Temghar": {
+        "totalStorage": "105.01",
+        "currentStorage": "20.42",
+        "percentage": "19.45"
+      },
+      "Warasgaon": {
+        "totalStorage": "363.13",
+        "currentStorage": "115.36",
+        "percentage": "31.77"
+      },
+      "Panshet": {
+        "totalStorage": "301.61",
+        "currentStorage": "120.51",
+        "percentage": "39.96"
+      },
+      "Khadakwasla": {
+        "totalStorage": "55.91",
+        "currentStorage": "22.93",
+        "percentage": "41.01"
+      },
+      "Ujjani": {
+        "totalStorage": "1517.19",
+        "currentStorage": "107.35",
+        "percentage": "7.08"
+      }
+    },
+    "28.7.2020": {
+      "Pawana": {
+        "totalStorage": "240.97",
+        "currentStorage": "83.02",
+        "percentage": "34.45"
+      },
+      "Kasarsai": {
+        "totalStorage": "16.06",
+        "currentStorage": "6.73",
+        "percentage": "41.91"
+      },
+      "Mulshi": {
+        "totalStorage": "523.00",
+        "currentStorage": "144.35",
+        "percentage": "27.61"
+      },
+      "Temghar": {
+        "totalStorage": "105.01",
+        "currentStorage": "20.42",
+        "percentage": "19.45"
+      },
+      "Warasgaon": {
+        "totalStorage": "363.13",
+        "currentStorage": "115.85",
+        "percentage": "31.90"
+      },
+      "Panshet": {
+        "totalStorage": "301.61",
+        "currentStorage": "120.79",
+        "percentage": "40.05"
+      },
+      "Khadakwasla": {
+        "totalStorage": "55.91",
+        "currentStorage": "21.68",
+        "percentage": "38.78"
+      },
+      "Ujjani": {
+        "totalStorage": "1517.19",
+        "currentStorage": "128.20",
+        "percentage": "8.45"
+      }
+    },
+    "29.7.2020": {
+      "Pawana": {
+        "totalStorage": "240.97",
+        "currentStorage": "83.02",
+        "percentage": "34.45"
+      },
+      "Kasarsai": {
+        "totalStorage": "16.06",
+        "currentStorage": "6.61",
+        "percentage": "41.16"
+      },
+      "Mulshi": {
+        "totalStorage": "523.00",
+        "currentStorage": "145.57",
+        "percentage": "27.85"
+      },
+      "Temghar": {
+        "totalStorage": "105.01",
+        "currentStorage": "20.77",
+        "percentage": "19.78"
+      },
+      "Warasgaon": {
+        "totalStorage": "363.13",
+        "currentStorage": "116.35",
+        "percentage": "32.04"
+      },
+      "Panshet": {
+        "totalStorage": "301.61",
+        "currentStorage": "121.90",
+        "percentage": "40.42"
+      },
+      "Khadakwasla": {
+        "totalStorage": "55.91",
+        "currentStorage": "20.77",
+        "percentage": "37.15"
+      },
+      "Ujjani": {
+        "totalStorage": "1517.19",
+        "currentStorage": "140.80",
+        "percentage": "9.28"
+      }
+    },
+    "3.7.2020": {
+      "Pawana": {
+        "totalStorage": "240.97",
+        "currentStorage": "70.52",
+        "percentage": "29.27"
+      },
+      "Kasarsai": {
+        "totalStorage": "16.06",
+        "currentStorage": "5.38",
+        "percentage": "33.50"
+      },
+      "Mulshi": {
+        "totalStorage": "523.00",
+        "currentStorage": "39.07",
+        "percentage": "7.47"
+      },
+      "Temghar": {
+        "totalStorage": "105.01",
+        "currentStorage": "4.30",
+        "percentage": "4.09"
+      },
+      "Warasgaon": {
+        "totalStorage": "363.13",
+        "currentStorage": "48.52",
+        "percentage": "13.36"
+      },
+      "Panshet": {
+        "totalStorage": "301.61",
+        "currentStorage": "61.18",
+        "percentage": "20.28"
+      },
+      "Khadakwasla": {
+        "totalStorage": "55.91",
+        "currentStorage": "32.52",
+        "percentage": "58.16"
+      },
+      "Ujjani": {
+        "totalStorage": "1517.19",
+        "currentStorage": "-169.43",
+        "percentage": "-11.17"
+      }
+    },
+    "3.8.2020": {
+      "Pawana": {
+        "totalStorage": "240.97",
+        "currentStorage": "78.56",
+        "percentage": "32.60"
+      },
+      "Kasarsai": {
+        "totalStorage": "16.06",
+        "currentStorage": "6.50",
+        "percentage": "40.47"
+      },
+      "Mulshi": {
+        "totalStorage": "523.00",
+        "currentStorage": "150.23",
+        "percentage": "28.74"
+      },
+      "Temghar": {
+        "totalStorage": "105.01",
+        "currentStorage": "21.13",
+        "percentage": "20.12"
+      },
+      "Warasgaon": {
+        "totalStorage": "363.13",
+        "currentStorage": "118.30",
+        "percentage": "32.58"
+      },
+      "Panshet": {
+        "totalStorage": "301.61",
+        "currentStorage": "119.97",
+        "percentage": "39.78"
+      },
+      "Khadakwasla": {
+        "totalStorage": "55.91",
+        "currentStorage": "18.57",
+        "percentage": "33.21"
+      },
+      "Ujjani": {
+        "totalStorage": "1517.19",
+        "currentStorage": "188.68",
+        "percentage": "12.44"
+      }
+    },
+    "30.7.2020": {
+      "Pawana": {
+        "totalStorage": "240.97",
+        "currentStorage": "81.80",
+        "percentage": "33.95"
+      },
+      "Kasarsai": {
+        "totalStorage": "16.06",
+        "currentStorage": "6.61",
+        "percentage": "41.16"
+      },
+      "Mulshi": {
+        "totalStorage": "523.00",
+        "currentStorage": "146.80",
+        "percentage": "28.08"
+      },
+      "Temghar": {
+        "totalStorage": "105.01",
+        "currentStorage": "20.96",
+        "percentage": "19.96"
+      },
+      "Warasgaon": {
+        "totalStorage": "363.13",
+        "currentStorage": "116.83",
+        "percentage": "32.17"
+      },
+      "Panshet": {
+        "totalStorage": "301.61",
+        "currentStorage": "122.46",
+        "percentage": "40.60"
+      },
+      "Khadakwasla": {
+        "totalStorage": "55.91",
+        "currentStorage": "19.19",
+        "percentage": "34.32"
+      },
+      "Ujjani": {
+        "totalStorage": "1517.19",
+        "currentStorage": "152.41",
+        "percentage": "10.05"
+      }
+    },
+    "31.7.2020": {
+      "Pawana": {
+        "totalStorage": "240.97",
+        "currentStorage": "80.98",
+        "percentage": "33.61"
+      },
+      "Kasarsai": {
+        "totalStorage": "16.06",
+        "currentStorage": "6.61",
+        "percentage": "41.16"
+      },
+      "Mulshi": {
+        "totalStorage": "523.00",
+        "currentStorage": "147.74",
+        "percentage": "28.26"
+      },
+      "Temghar": {
+        "totalStorage": "105.01",
+        "currentStorage": "20.96",
+        "percentage": "19.96"
+      },
+      "Warasgaon": {
+        "totalStorage": "363.13",
+        "currentStorage": "117.31",
+        "percentage": "32.31"
+      },
+      "Panshet": {
+        "totalStorage": "301.61",
+        "currentStorage": "123.03",
+        "percentage": "40.79"
+      },
+      "Khadakwasla": {
+        "totalStorage": "55.91",
+        "currentStorage": "18.00",
+        "percentage": "32.19"
+      },
+      "Ujjani": {
+        "totalStorage": "1517.19",
+        "currentStorage": "160.89",
+        "percentage": "10.60"
+      }
+    },
+    "4.7.2020": {
+      "Pawana": {
+        "totalStorage": "240.97",
+        "currentStorage": "69.33",
+        "percentage": "28.77"
+      },
+      "Kasarsai": {
+        "totalStorage": "16.06",
+        "currentStorage": "5.38",
+        "percentage": "33.50"
+      },
+      "Mulshi": {
+        "totalStorage": "523.00",
+        "currentStorage": "38.82",
+        "percentage": "7.43"
+      },
+      "Temghar": {
+        "totalStorage": "105.01",
+        "currentStorage": "4.48",
+        "percentage": "4.27"
+      },
+      "Warasgaon": {
+        "totalStorage": "363.13",
+        "currentStorage": "48.52",
+        "percentage": "13.36"
+      },
+      "Panshet": {
+        "totalStorage": "301.61",
+        "currentStorage": "61.18",
+        "percentage": "20.28"
+      },
+      "Khadakwasla": {
+        "totalStorage": "55.91",
+        "currentStorage": "30.72",
+        "percentage": "54.95"
+      },
+      "Ujjani": {
+        "totalStorage": "1517.19",
+        "currentStorage": "-160.36",
+        "percentage": "-10.57"
+      }
+    },
+    "4.8.2020": {
+      "Pawana": {
+        "totalStorage": "240.97",
+        "currentStorage": "78.15",
+        "percentage": "32.43"
+      },
+      "Kasarsai": {
+        "totalStorage": "16.06",
+        "currentStorage": "6.50",
+        "percentage": "40.47"
+      },
+      "Mulshi": {
+        "totalStorage": "523.00",
+        "currentStorage": "161.41",
+        "percentage": "30.88"
+      },
+      "Temghar": {
+        "totalStorage": "105.01",
+        "currentStorage": "21.68",
+        "percentage": "20.65"
+      },
+      "Warasgaon": {
+        "totalStorage": "363.13",
+        "currentStorage": "120.91",
+        "percentage": "33.30"
+      },
+      "Panshet": {
+        "totalStorage": "301.61",
+        "currentStorage": "119.97",
+        "percentage": "39.78"
+      },
+      "Khadakwasla": {
+        "totalStorage": "55.91",
+        "currentStorage": "19.53",
+        "percentage": "34.93"
+      },
+      "Ujjani": {
+        "totalStorage": "1517.19",
+        "currentStorage": "195.13",
+        "percentage": "12.86"
+      }
+    },
+    "5.7.2020": {
+      "Pawana": {
+        "totalStorage": "240.97",
+        "currentStorage": "68.13",
+        "percentage": "28.27"
+      },
+      "Kasarsai": {
+        "totalStorage": "16.06",
+        "currentStorage": "5.38",
+        "percentage": "33.50"
+      },
+      "Mulshi": {
+        "totalStorage": "523.00",
+        "currentStorage": "48.56",
+        "percentage": "9.29"
+      },
+      "Temghar": {
+        "totalStorage": "105.01",
+        "currentStorage": "5.14",
+        "percentage": "4.89"
+      },
+      "Warasgaon": {
+        "totalStorage": "363.13",
+        "currentStorage": "55.00",
+        "percentage": "15.15"
+      },
+      "Panshet": {
+        "totalStorage": "301.61",
+        "currentStorage": "64.43",
+        "percentage": "21.36"
+      },
+      "Khadakwasla": {
+        "totalStorage": "55.91",
+        "currentStorage": "29.07",
+        "percentage": "51.99"
+      },
+      "Ujjani": {
+        "totalStorage": "1517.19",
+        "currentStorage": "-151.22",
+        "percentage": "-9.97"
+      }
+    },
+    "5.8.2020": {
+      "Pawana": {
+        "totalStorage": "240.97",
+        "currentStorage": "93.30",
+        "percentage": "38.72"
+      },
+      "Kasarsai": {
+        "totalStorage": "16.06",
+        "currentStorage": "8.36",
+        "percentage": "52.05"
+      },
+      "Mulshi": {
+        "totalStorage": "523.00",
+        "currentStorage": "211.89",
+        "percentage": "40.53"
+      },
+      "Temghar": {
+        "totalStorage": "105.01",
+        "currentStorage": "26.32",
+        "percentage": "25.06"
+      },
+      "Warasgaon": {
+        "totalStorage": "363.13",
+        "currentStorage": "143.07",
+        "percentage": "39.40"
+      },
+      "Panshet": {
+        "totalStorage": "301.61",
+        "currentStorage": "144.13",
+        "percentage": "47.79"
+      },
+      "Khadakwasla": {
+        "totalStorage": "55.91",
+        "currentStorage": "28.31",
+        "percentage": "50.63"
+      },
+      "Ujjani": {
+        "totalStorage": "1517.19",
+        "currentStorage": "201.59",
+        "percentage": "13.29"
+      }
+    },
+    "6.7.2020": {
+      "Pawana": {
+        "totalStorage": "240.97",
+        "currentStorage": "71.72",
+        "percentage": "29.76"
+      },
+      "Kasarsai": {
+        "totalStorage": "16.06",
+        "currentStorage": "5.38",
+        "percentage": "33.50"
+      },
+      "Mulshi": {
+        "totalStorage": "523.00",
+        "currentStorage": "58.30",
+        "percentage": "11.15"
+      },
+      "Temghar": {
+        "totalStorage": "105.01",
+        "currentStorage": "6.24",
+        "percentage": "5.94"
+      },
+      "Warasgaon": {
+        "totalStorage": "363.13",
+        "currentStorage": "61.23",
+        "percentage": "16.86"
+      },
+      "Panshet": {
+        "totalStorage": "301.61",
+        "currentStorage": "70.98",
+        "percentage": "23.53"
+      },
+      "Khadakwasla": {
+        "totalStorage": "55.91",
+        "currentStorage": "27.94",
+        "percentage": "49.97"
+      },
+      "Ujjani": {
+        "totalStorage": "1517.19",
+        "currentStorage": "-144.81",
+        "percentage": "-9.54"
+      }
+    },
+    "6.8.2020": {
+      "Pawana": {
+        "totalStorage": "240.97",
+        "currentStorage": "101.65",
+        "percentage": "42.18"
+      },
+      "Kasarsai": {
+        "totalStorage": "16.06",
+        "currentStorage": "10.37",
+        "percentage": "64.57"
+      },
+      "Mulshi": {
+        "totalStorage": "523.00",
+        "currentStorage": "258.23",
+        "percentage": "49.40"
+      },
+      "Temghar": {
+        "totalStorage": "105.01",
+        "currentStorage": "31.35",
+        "percentage": "29.85"
+      },
+      "Warasgaon": {
+        "totalStorage": "363.13",
+        "currentStorage": "163.39",
+        "percentage": "44.99"
+      },
+      "Panshet": {
+        "totalStorage": "301.61",
+        "currentStorage": "166.13",
+        "percentage": "55.08"
+      },
+      "Khadakwasla": {
+        "totalStorage": "55.91",
+        "currentStorage": "40.72",
+        "percentage": "72.83"
+      },
+      "Ujjani": {
+        "totalStorage": "1517.19",
+        "currentStorage": "217.86",
+        "percentage": "14.36"
+      }
+    },
+    "7.7.2020": {
+      "Pawana": {
+        "totalStorage": "240.97",
+        "currentStorage": "74.93",
+        "percentage": "31.10"
+      },
+      "Kasarsai": {
+        "totalStorage": "16.06",
+        "currentStorage": "5.38",
+        "percentage": "33.50"
+      },
+      "Mulshi": {
+        "totalStorage": "523.00",
+        "currentStorage": "67.47",
+        "percentage": "12.91"
+      },
+      "Temghar": {
+        "totalStorage": "105.01",
+        "currentStorage": "7.36",
+        "percentage": "7.04"
+      },
+      "Warasgaon": {
+        "totalStorage": "363.13",
+        "currentStorage": "65.22",
+        "percentage": "17.96"
+      },
+      "Panshet": {
+        "totalStorage": "301.61",
+        "currentStorage": "75.79",
+        "percentage": "25.13"
+      },
+      "Khadakwasla": {
+        "totalStorage": "55.91",
+        "currentStorage": "27.32",
+        "percentage": "48.86"
+      },
+      "Ujjani": {
+        "totalStorage": "1517.19",
+        "currentStorage": "-139.31",
+        "percentage": "-9.18"
+      }
+    },
+    "8.7.2020": {
+      "Pawana": {
+        "totalStorage": "240.97",
+        "currentStorage": "76.94",
+        "percentage": "31.93"
+      },
+      "Kasarsai": {
+        "totalStorage": "16.06",
+        "currentStorage": "5.60",
+        "percentage": "37.78"
+      },
+      "Mulshi": {
+        "totalStorage": "523.00",
+        "currentStorage": "79.24",
+        "percentage": "15.16"
+      },
+      "Temghar": {
+        "totalStorage": "105.01",
+        "currentStorage": "8.95",
+        "percentage": "8.52"
+      },
+      "Warasgaon": {
+        "totalStorage": "363.13",
+        "currentStorage": "71.74",
+        "percentage": "19.76"
+      },
+      "Panshet": {
+        "totalStorage": "301.61",
+        "currentStorage": "82.11",
+        "percentage": "27.22"
+      },
+      "Khadakwasla": {
+        "totalStorage": "55.91",
+        "currentStorage": "28.31",
+        "percentage": "50.63"
+      },
+      "Ujjani": {
+        "totalStorage": "1517.19",
+        "currentStorage": "-132.83",
+        "percentage": "-8.76"
+      }
+    },
+    "9.7.2020": {
+      "Pawana": {
+        "totalStorage": "240.97",
+        "currentStorage": "78.96",
+        "percentage": "32.77"
+      },
+      "Kasarsai": {
+        "totalStorage": "16.06",
+        "currentStorage": "5.93",
+        "percentage": "36.92"
+      },
+      "Mulshi": {
+        "totalStorage": "523.00",
+        "currentStorage": "91.03",
+        "percentage": "17.41"
+      },
+      "Temghar": {
+        "totalStorage": "105.01",
+        "currentStorage": "10.72",
+        "percentage": "10.21"
+      },
+      "Warasgaon": {
+        "totalStorage": "363.13",
+        "currentStorage": "78.30",
+        "percentage": "21.56"
+      },
+      "Panshet": {
+        "totalStorage": "301.61",
+        "currentStorage": "95.47",
+        "percentage": "31.65"
+      },
+      "Khadakwasla": {
+        "totalStorage": "55.91",
+        "currentStorage": "29.36",
+        "percentage": "52.51"
+      },
+      "Ujjani": {
+        "totalStorage": "1517.19",
+        "currentStorage": "-118.93",
+        "percentage": "-7.84"
       }
     }
   }
