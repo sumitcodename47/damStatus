@@ -78,13 +78,13 @@ export class StatusComponent implements OnInit {
     if (perc < 0 || perc > 90) {
       return { color: 'red', 'font-weight': 600 };
     } else if (perc > 0 && perc <= 25) {
-      return { color: '#fc7f03', 'font-weight': 600 };
+      return { color: '#805e1f', 'font-weight': 600 };
     } else if (perc > 25 && perc <= 55) {
-      return { color: '#f8fc03', 'font-weight': 600 };
+      return { color: '#66801f', 'font-weight': 600 };
     } else if (perc > 55 && perc <= 75) {
-      return { color: '#c2fc03', 'font-weight': 600 };
+      return { color: '#43801f', 'font-weight': 600 };
     } else {
-      return { color: '#c2fc03', 'font-weight': 600 };
+      return { color: '#1a5228', 'font-weight': 600 };
     }
   }
 }
